@@ -1,5 +1,7 @@
 # Business Intelligence Across Management Levels
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23405179.svg)](https://doi.org/10.5281/zenodo.23405179)
+
 Reproducible research package for the paper
 
 > Jurić Gubeljić, S., Uroš, V., & Martinović, A. (2026). *Business intelligence across management levels: Perceived contribution to planning and the human factor.* Manuscript submitted to EMC Review - Economy and Market Communication Review.
@@ -62,7 +64,7 @@ Participation was voluntary and anonymous. The raw export contains no names, e-m
 
 ## Citation
 
-A Zenodo DOI will be added on acceptance of the paper.
+Archived on Zenodo: concept DOI https://doi.org/10.5281/zenodo.23405179 (always resolves to the latest version); v1.0 (manuscript revision 1): https://doi.org/10.5281/zenodo.23405180.
 
 ### BibTeX / RIS
 
