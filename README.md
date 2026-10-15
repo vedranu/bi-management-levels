@@ -1,8 +1,8 @@
-# Business Intelligence Across Hierarchical Levels of Management
+# Business Intelligence Across Management Levels
 
 Reproducible research package for the paper
 
-> Jurić Gubeljić, S., Uroš, V., & Martinović, A. (2026). *Business intelligence across hierarchical levels of management: Perceived contribution to business planning and the human factor.* Manuscript submitted to EMC Review - Economy and Market Communication Review.
+> Jurić Gubeljić, S., Uroš, V., & Martinović, A. (2026). *Business intelligence across management levels: Perceived contribution to planning and the human factor.* Manuscript submitted to EMC Review - Economy and Market Communication Review.
 
 The paper is based on a survey of 53 employees at five hierarchical levels (operational employees, first-line, middle and top management, owners/directors) in organisations from eleven industries, mostly in Croatia and nine other countries, carried out February-June 2026.
 
