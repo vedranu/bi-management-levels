@@ -1,0 +1,29 @@
+Item,Category,n,%
+Organisation uses BI tools,Yes,36,67.9
+Organisation uses BI tools,No,10,18.9
+Organisation uses BI tools,Not sure,7,13.2
+Personal frequency of BI use,Occasionally,17,32.1
+Personal frequency of BI use,Frequently,13,24.5
+Personal frequency of BI use,Never,10,18.9
+Personal frequency of BI use,Daily,7,13.2
+Personal frequency of BI use,Rarely,6,11.3
+BI tools used (multiple),Power BI,22,41.5
+BI tools used (multiple),We do not use BI tools,12,22.6
+BI tools used (multiple),SAP BI / BW / Analytics Cloud,11,20.8
+BI tools used (multiple),Advanced Excel analytics,10,18.9
+BI tools used (multiple),Internally developed BI tools,9,17.0
+BI tools used (multiple),Oracle BI,6,11.3
+BI tools used (multiple),Tableau,5,9.4
+BI tools used (multiple),Nisam upoznata,1,1.9
+BI tools used (multiple),View),1,1.9
+BI tools used (multiple),I do not know which one exactly,1,1.9
+BI tools used (multiple),Elite 3E,1,1.9
+BI tools used (multiple),EDC,1,1.9
+BI tools used (multiple),Farseer - financijsko planiranje i analitika,1,1.9
+Purpose of BI use (multiple),Reporting,36,67.9
+Purpose of BI use (multiple),Monitoring business performance,29,54.7
+Purpose of BI use (multiple),Operational planning,20,37.7
+Purpose of BI use (multiple),Business decision-making,15,28.3
+Purpose of BI use (multiple),Strategic planning,12,22.6
+Purpose of BI use (multiple),Do not use,6,11.3
+Purpose of BI use (multiple),Tactical planning,5,9.4

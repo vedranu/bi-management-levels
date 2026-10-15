@@ -1,0 +1,8 @@
+Test,Statistic,df,p,Note
+"Cochran's Q (able to judge, 3 levels)",4.67,2,0.097,Operational: 84.9% able to judge; Tactical: 81.1% able to judge; Strategic: 73.6% able to judge
+Exact McNemar Operational vs Tactical,discordant 3/1,,0.625,
+Exact McNemar Operational vs Strategic,discordant 9/3,,0.146,
+Exact McNemar Tactical vs Strategic,discordant 6/2,,0.289,
+Wilcoxon signed-rank Operational vs Tactical (valid cases),174.0,,0.717,n = 41
+Wilcoxon signed-rank Operational vs Strategic (valid cases),164.0,,0.768,n = 41
+Wilcoxon signed-rank Tactical vs Strategic (valid cases),54.0,,0.285,n = 41

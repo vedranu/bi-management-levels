@@ -1,0 +1,37 @@
+{
+  "N": 53,
+  "cronbach_alpha_8_items": 0.83,
+  "cronbach_alpha_6_benefit_items": 0.854,
+  "cronbach_alpha_2_barrier_items": 0.757,
+  "spearman_frequency_vs_benefit": {
+    "rho": 0.613,
+    "p": 0.0
+  },
+  "spearman_frequency_vs_barrier": {
+    "rho": 0.042,
+    "p": 0.7649
+  },
+  "n_management": 30,
+  "n_operational": 23,
+  "n_bi_users": 36,
+  "H2_benefit_index": {
+    "U": 442.0,
+    "p": 0.082,
+    "r": 0.28,
+    "KW_H": 5.26,
+    "KW_df": 4,
+    "KW_p": 0.262,
+    "post_hoc_power_approx": 0.53,
+    "n_required_80pct_power": 98
+  },
+  "H3_barrier_index": {
+    "U": 319.0,
+    "p": 0.64,
+    "KW_H": 3.12,
+    "KW_df": 4,
+    "KW_p": 0.538
+  },
+  "barrier_items_pearson_r": 0.608,
+  "barrier_items_spearman_brown": 0.757,
+  "barrier_items_spearman_rho": 0.586
+}

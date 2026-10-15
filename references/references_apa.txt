@@ -1,0 +1,55 @@
+Ain, N., Vaia, G., DeLone, W. H., & Waheed, M. (2019). Two decades of research on business intelligence system adoption, utilization and success: A systematic literature review. Decision Support Systems, 125, 113113. https://doi.org/10.1016/j.dss.2019.113113
+
+Alsibhawi, I. A. A., Yahaya, J. B., & Mohamed, H. B. (2023). Business intelligence adoption for small and medium enterprises: Conceptual framework. Applied Sciences, 13(7), 4121. https://doi.org/10.3390/app13074121
+
+Anthony, R. N. (1965). Planning and control systems: A framework for analysis. Harvard University, Graduate School of Business Administration.
+
+Božič, K., & Dimovski, V. (2019). Business intelligence and analytics for value creation: The role of absorptive capacity. International Journal of Information Management, 46, 93-103. https://doi.org/10.1016/j.ijinfomgt.2018.11.020
+
+Brynjolfsson, E., & McElheran, K. (2016). The rapid adoption of data-driven decision-making. American Economic Review, 106(5), 133-139. https://doi.org/10.1257/aer.p20161016
+
+Chatterjee, S., Chaudhuri, R., & Vrontis, D. (2024). Does data-driven culture impact innovation and performance of a firm? An empirical examination. Annals of Operations Research, 333(2-3), 601-626. https://doi.org/10.1007/s10479-020-03887-z
+
+Chaudhuri, R., Chatterjee, S., Vrontis, D., & Thrassou, A. (2024). Adoption of robust business analytics for product innovation and organizational performance: The mediating role of organizational data-driven culture. Annals of Operations Research, 339(3), 1757-1791. https://doi.org/10.1007/s10479-021-04407-3
+
+Creswell, J. W. (2014). Research design: Qualitative, quantitative, and mixed methods approaches (4th ed.). SAGE Publications.
+
+Davenport, T. H., & Harris, J. G. (2007). Competing on analytics: The new science of winning. Harvard Business School Press.
+
+Gorry, G. A., & Scott Morton, M. S. (1971). A framework for management information systems. Sloan Management Review, 13(1), 55-70.
+
+Hurbean, L., Militaru, F., Munteanu, V. P., Danaiata, D., Fotache, D., & Muntean, M. (2025). Assessing the influence of business intelligence and analytics and data-driven culture on managerial performance: Evidence from Romania. Systems, 13(1), 2. https://doi.org/10.3390/systems13010002
+
+Jaklič, J., Grublješič, T., & Popovič, A. (2018). The role of compatibility in predicting business intelligence and analytics use intentions. International Journal of Information Management, 43, 305-318. https://doi.org/10.1016/j.ijinfomgt.2018.08.017
+
+Jurić, S. (2023). Intuicija i poslovna inteligencija - integracijski ključ ispravnog poslovnog odlučivanja. In Zbornik radova 24. međunarodne znanstvene i stručne konferencije Računovodstvo i menadžment, XXIV(1), 47-56. Udruga Hrvatski računovođa.
+
+Kaplan, R. S., & Norton, D. P. (1996). The balanced scorecard: Translating strategy into action. Harvard Business School Press.
+
+Lennerholt, C., van Laere, J., & Söderström, E. (2021). User-related challenges of self-service business intelligence. Information Systems Management, 38(4), 309-323. https://doi.org/10.1080/10580530.2020.1814458
+
+Luhn, H. P. (1958). A business intelligence system. IBM Journal of Research and Development, 2(4), 314-319. https://doi.org/10.1147/rd.24.0314
+
+Mikalef, P., Pappas, I. O., Krogstie, J., & Giannakos, M. (2018). Big data analytics capabilities: A systematic literature review and research agenda. Information Systems and e-Business Management, 16(3), 547-578. https://doi.org/10.1007/s10257-017-0362-y
+
+Negash, S. (2004). Business intelligence. Communications of the Association for Information Systems, 13, 177-195. https://doi.org/10.17705/1CAIS.01315
+
+Pejić Bach, M., Zoroja, J., & Čeljo, A. (2017). An extension of the technology acceptance model for business intelligence systems: Project management maturity perspective. International Journal of Information Systems and Project Management, 5(2), 5-21. https://doi.org/10.12821/ijispm050201
+
+Richards, G., Yeoh, W., Chong, A. Y. L., & Popovič, A. (2019). Business intelligence effectiveness and corporate performance management: An empirical analysis. Journal of Computer Information Systems, 59(2), 188-196. https://doi.org/10.1080/08874417.2017.1334244
+
+Šego, A., Gakić, M., & Škobić, D. (2025). Business intelligence model for multidimensional analysis of the insurance market based on open data. EMC Review - Economy and Market Communication Review, 31(2), 535-546. https://doi.org/10.7251/EMC2502535S
+
+Simon, H. A. (1960). The new science of management decision. Harper & Row.
+
+Terpelle, C., & Erceg, A. (2025). Strategic planning for micro-companies in Netherlands: Use of AI-based technology. EMC Review - Economy and Market Communication Review, 31(2), 456-472. https://doi.org/10.7251/EMC2502456T
+
+Torres, R., Sidorova, A., & Jones, M. C. (2018). Enabling firm performance through business intelligence and analytics: A dynamic capabilities perspective. Information & Management, 55(7), 822-839. https://doi.org/10.1016/j.im.2018.03.010
+
+Trieu, V.-H. (2017). Getting value from business intelligence systems: A review and research agenda. Decision Support Systems, 93, 111-124. https://doi.org/10.1016/j.dss.2016.09.019
+
+Turban, E., Sharda, R., Delen, D., & King, D. (2011). Business intelligence: A managerial approach (2nd ed.). Pearson Prentice Hall.
+
+Watson, H. J., & Wixom, B. H. (2007). The current state of business intelligence. Computer, 40(9), 96-99. https://doi.org/10.1109/MC.2007.331
+
+Yeoh, W., & Popovič, A. (2016). Extending the understanding of critical success factors for implementing business intelligence systems. Journal of the Association for Information Science and Technology, 67(1), 134-147. https://doi.org/10.1002/asi.23366
